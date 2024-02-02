@@ -17,7 +17,7 @@ const (
 	host     = "localhost"
 	port     = 5432
 	user     = "root"
-	password = "1234s"
+	password = ""
 	dbname   = "admindb"
 )
 
